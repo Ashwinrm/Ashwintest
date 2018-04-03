@@ -6,4 +6,5 @@
       <class name="AW.AWautomation"/>
     </classes>
   </test> <!-- Test -->
+  
 </suite> <!-- Suite -->
